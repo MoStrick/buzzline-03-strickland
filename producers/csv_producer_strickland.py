@@ -44,14 +44,14 @@ load_dotenv()
 
 def get_kafka_topic() -> str:
     """Fetch Kafka topic from environment or use default."""
-    topic = os.getenv("SMOKER_TOPIC", "unknown_topic")
+    topic = os.getenv("EAST_CYCLIST_TOPIC", "unknown_topic")
     logger.info(f"Kafka topic: {topic}")
     return topic
 
 
 def get_message_interval() -> int:
     """Fetch message interval from environment or use default."""
-    interval = int(os.getenv("SMOKER_INTERVAL_SECONDS", 1))
+    interval = int(os.getenv("EAST_CYCLIST_INTERVAL_SECONDS", 1))
     logger.info(f"Message interval: {interval} seconds")
     return interval
 
@@ -70,7 +70,7 @@ DATA_FOLDER = PROJECT_ROOT.joinpath("data")
 logger.info(f"Data folder: {DATA_FOLDER}")
 
 # Set the name of the data file
-DATA_FILE = DATA_FOLDER.joinpath("smoker_temps.csv")
+DATA_FILE = DATA_FOLDER.joinpath("eastbound_cyclists.csv")
 logger.info(f"Data file: {DATA_FILE}")
 
 #####################################
@@ -97,15 +97,15 @@ def generate_messages(file_path: pathlib.Path):
                 csv_reader = csv.DictReader(csv_file)
                 for row in csv_reader:
                     # Ensure required fields are present
-                    if "temperature" not in row:
-                        logger.error(f"Missing 'temperature' column in row: {row}")
+                    if "Fremont Bridge Sidewalks, south of N 34th St Cyclist East Sidewalk" not in row:
+                        logger.error(f"Missing 'Number of cyclists on east sidewalk' column in row: {row}")
                         continue
 
                     # Generate a timestamp and prepare the message
                     current_timestamp = datetime.utcnow().isoformat()
                     message = {
                         "timestamp": current_timestamp,
-                        "temperature": float(row["temperature"]),
+                        "Fremont Bridge Sidewalks, south of N 34th St Cyclist East Sidewalk": float(row["Fremont Bridge Sidewalks, south of N 34th St Cyclist East Sidewalk"]),
                     }
                     logger.debug(f"Generated message: {message}")
                     yield message
