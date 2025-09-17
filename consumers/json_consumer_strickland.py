@@ -49,7 +49,7 @@ def get_kafka_topic() -> str:
 
 def get_kafka_consumer_group_id() -> str:
     """Fetch Kafka consumer group id from environment or use default."""
-    group_id: str = os.getenv("BUZZ_CONSUMER_GROUP_ID", "default_group")
+    group_id: str = os.getenv("BUZZ_CONSUMER_GROUP_ID2", "default_group")
     logger.info(f"Kafka consumer group id: {group_id}")
     return group_id
 

@@ -1,0 +1,298 @@
+2025-09-17 01:09:10 | INFO | Sent message to topic 'buzzline_json': {'message': 'I must be mixing up the rules.', 'author': 'Maya'}
+2025-09-17 01:09:10 | INFO | Processed JSON message: {'message': 'I must be mixing up the rules.', 'author': 'Maya'}
+2025-09-17 01:09:10 | INFO | Message received from author: Maya
+2025-09-17 01:09:10 | INFO | Updated author counts: {'Ryan': 1, 'Sofia': 1, 'Theo': 1, 'Uma': 1, 'Victor': 1, 'Wendy': 1, 'Xavier': 1, 'Yara': 1, 'Zoe': 1, 'Alice': 2, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1}
+2025-09-17 01:09:11 | INFO | Sent message to topic 'buzzline_json': {'message': 'Ugh, my brain is fried.', 'author': 'Noah'}
+2025-09-17 01:09:11 | INFO | Processed JSON message: {'message': 'Ugh, my brain is fried.', 'author': 'Noah'}
+2025-09-17 01:09:11 | INFO | Message received from author: Noah
+2025-09-17 01:09:11 | INFO | Updated author counts: {'Ryan': 1, 'Sofia': 1, 'Theo': 1, 'Uma': 1, 'Victor': 1, 'Wendy': 1, 'Xavier': 1, 'Yara': 1, 'Zoe': 1, 'Alice': 2, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1}
+2025-09-17 01:09:12 | INFO | Sent message to topic 'buzzline_json': {'message': 'This problem feels impossible.', 'author': 'Olivia'}
+2025-09-17 01:09:12 | INFO | Processed JSON message: {'message': 'This problem feels impossible.', 'author': 'Olivia'}
+2025-09-17 01:09:12 | INFO | Message received from author: Olivia
+2025-09-17 01:09:12 | INFO | Updated author counts: {'Ryan': 1, 'Sofia': 1, 'Theo': 1, 'Uma': 1, 'Victor': 1, 'Wendy': 1, 'Xavier': 1, 'Yara': 1, 'Zoe': 1, 'Alice': 2, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1}
+2025-09-17 01:09:13 | INFO | Sent message to topic 'buzzline_json': {'message': 'I finished early; now what?', 'author': 'Priya'}
+2025-09-17 01:09:13 | INFO | Processed JSON message: {'message': 'I finished early; now what?', 'author': 'Priya'}
+2025-09-17 01:09:13 | INFO | Message received from author: Priya
+2025-09-17 01:09:13 | INFO | Updated author counts: {'Ryan': 1, 'Sofia': 1, 'Theo': 1, 'Uma': 1, 'Victor': 1, 'Wendy': 1, 'Xavier': 1, 'Yara': 1, 'Zoe': 1, 'Alice': 2, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1}
+2025-09-17 01:09:14 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is too easy.', 'author': 'Quinn'}
+2025-09-17 01:09:14 | INFO | Processed JSON message: {'message': 'This is too easy.', 'author': 'Quinn'}
+2025-09-17 01:09:14 | INFO | Message received from author: Quinn
+2025-09-17 01:09:14 | INFO | Updated author counts: {'Ryan': 1, 'Sofia': 1, 'Theo': 1, 'Uma': 1, 'Victor': 1, 'Wendy': 1, 'Xavier': 1, 'Yara': 1, 'Zoe': 1, 'Alice': 2, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:15 | INFO | Sent message to topic 'buzzline_json': {'message': 'We already did this.', 'author': 'Ryan'}
+2025-09-17 01:09:15 | INFO | Processed JSON message: {'message': 'We already did this.', 'author': 'Ryan'}
+2025-09-17 01:09:15 | INFO | Message received from author: Ryan
+2025-09-17 01:09:15 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 1, 'Theo': 1, 'Uma': 1, 'Victor': 1, 'Wendy': 1, 'Xavier': 1, 'Yara': 1, 'Zoe': 1, 'Alice': 2, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:16 | INFO | Sent message to topic 'buzzline_json': {'message': 'Can we do a harder one?', 'author': 'Sofia'}
+2025-09-17 01:09:16 | INFO | Processed JSON message: {'message': 'Can we do a harder one?', 'author': 'Sofia'}
+2025-09-17 01:09:16 | INFO | Message received from author: Sofia
+2025-09-17 01:09:16 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 1, 'Uma': 1, 'Victor': 1, 'Wendy': 1, 'Xavier': 1, 'Yara': 1, 'Zoe': 1, 'Alice': 2, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:17 | INFO | Sent message to topic 'buzzline_json': {'message': "I'm waiting for the next challenge.", 'author': 'Theo'}
+2025-09-17 01:09:17 | INFO | Processed JSON message: {'message': "I'm waiting for the next challenge.", 'author': 'Theo'}
+2025-09-17 01:09:17 | INFO | Message received from author: Theo
+2025-09-17 01:09:17 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 1, 'Victor': 1, 'Wendy': 1, 'Xavier': 1, 'Yara': 1, 'Zoe': 1, 'Alice': 2, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:18 | INFO | Sent message to topic 'buzzline_json': {'message': 'This feels repetitive.', 'author': 'Uma'}
+2025-09-17 01:09:18 | INFO | Processed JSON message: {'message': 'This feels repetitive.', 'author': 'Uma'}
+2025-09-17 01:09:18 | INFO | Message received from author: Uma
+2025-09-17 01:09:18 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 1, 'Wendy': 1, 'Xavier': 1, 'Yara': 1, 'Zoe': 1, 'Alice': 2, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:19 | INFO | Sent message to topic 'buzzline_json': {'message': 'I get itâ€”can we move on?', 'author': 'Victor'}
+2025-09-17 01:09:19 | INFO | Processed JSON message: {'message': 'I get itâ€”can we move on?', 'author': 'Victor'}
+2025-09-17 01:09:19 | INFO | Message received from author: Victor
+2025-09-17 01:09:19 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 1, 'Xavier': 1, 'Yara': 1, 'Zoe': 1, 'Alice': 2, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:20 | INFO | Sent message to topic 'buzzline_json': {'message': 'Can I try the extension problems?', 'author': 'Wendy'}
+2025-09-17 01:09:20 | INFO | Processed JSON message: {'message': 'Can I try the extension problems?', 'author': 'Wendy'}
+2025-09-17 01:09:20 | INFO | Message received from author: Wendy
+2025-09-17 01:09:20 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 1, 'Yara': 1, 'Zoe': 1, 'Alice': 2, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:21 | INFO | Sent message to topic 'buzzline_json': {'message': 'Can we use a real-world example?', 'author': 'Xavier'}
+2025-09-17 01:09:21 | INFO | Processed JSON message: {'message': 'Can we use a real-world example?', 'author': 'Xavier'}
+2025-09-17 01:09:21 | INFO | Message received from author: Xavier
+2025-09-17 01:09:21 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 1, 'Zoe': 1, 'Alice': 2, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:22 | INFO | Sent message to topic 'buzzline_json': {'message': 'Is there a puzzle version of this?', 'author': 'Yara'}
+2025-09-17 01:09:22 | INFO | Processed JSON message: {'message': 'Is there a puzzle version of this?', 'author': 'Yara'}
+2025-09-17 01:09:22 | INFO | Message received from author: Yara
+2025-09-17 01:09:22 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 1, 'Alice': 2, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:23 | INFO | Sent message to topic 'buzzline_json': {'message': 'Can I help someone else?', 'author': 'Zoe'}
+2025-09-17 01:09:23 | INFO | Processed JSON message: {'message': 'Can I help someone else?', 'author': 'Zoe'}
+2025-09-17 01:09:23 | INFO | Message received from author: Zoe
+2025-09-17 01:09:23 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 2, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:24 | INFO | Sent message to topic 'buzzline_json': {'message': 'Can we do this as a game?', 'author': 'Alice'}
+2025-09-17 01:09:24 | INFO | Processed JSON message: {'message': 'Can we do this as a game?', 'author': 'Alice'}
+2025-09-17 01:09:24 | INFO | Message received from author: Alice
+2025-09-17 01:09:24 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 2, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:25 | INFO | Sent message to topic 'buzzline_json': {'message': 'I know the steps by heart.', 'author': 'Bob'}
+2025-09-17 01:09:25 | INFO | Processed JSON message: {'message': 'I know the steps by heart.', 'author': 'Bob'}
+2025-09-17 01:09:25 | INFO | Message received from author: Bob
+2025-09-17 01:09:25 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 2, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:26 | INFO | Sent message to topic 'buzzline_json': {'message': 'Can we switch to coding this?', 'author': 'Charlie'}
+2025-09-17 01:09:26 | INFO | Processed JSON message: {'message': 'Can we switch to coding this?', 'author': 'Charlie'}
+2025-09-17 01:09:26 | INFO | Message received from author: Charlie
+2025-09-17 01:09:26 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 2, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:27 | INFO | Sent message to topic 'buzzline_json': {'message': 'Is there a faster way?', 'author': 'Diana'}
+2025-09-17 01:09:27 | INFO | Processed JSON message: {'message': 'Is there a faster way?', 'author': 'Diana'}
+2025-09-17 01:09:27 | INFO | Message received from author: Diana
+2025-09-17 01:09:27 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 2, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:28 | INFO | Sent message to topic 'buzzline_json': {'message': 'I almost have itâ€”one more try.', 'author': 'Eve'}
+2025-09-17 01:09:28 | INFO | Processed JSON message: {'message': 'I almost have itâ€”one more try.', 'author': 'Eve'}
+2025-09-17 01:09:28 | INFO | Message received from author: Eve
+2025-09-17 01:09:28 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 2, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:29 | INFO | Sent message to topic 'buzzline_json': {'message': 'Let me break it into smaller parts.', 'author': 'Frank'}
+2025-09-17 01:09:29 | INFO | Processed JSON message: {'message': 'Let me break it into smaller parts.', 'author': 'Frank'}
+2025-09-17 01:09:29 | INFO | Message received from author: Frank
+2025-09-17 01:09:29 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 2, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:30 | INFO | Sent message to topic 'buzzline_json': {'message': 'I think I found the pattern.', 'author': 'Grace'}
+2025-09-17 01:09:30 | INFO | Processed JSON message: {'message': 'I think I found the pattern.', 'author': 'Grace'}
+2025-09-17 01:09:30 | INFO | Message received from author: Grace
+2025-09-17 01:09:30 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 2, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:31 | INFO | Sent message to topic 'buzzline_json': {'message': 'If I draw a diagram it might click.', 'author': 'Hannah'}
+2025-09-17 01:09:31 | INFO | Processed JSON message: {'message': 'If I draw a diagram it might click.', 'author': 'Hannah'}
+2025-09-17 01:09:31 | INFO | Message received from author: Hannah
+2025-09-17 01:09:31 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 1, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:32 | INFO | Sent message to topic 'buzzline_json': {'message': 'I should check my assumptions.', 'author': 'Isaac'}
+2025-09-17 01:09:32 | INFO | Processed JSON message: {'message': 'I should check my assumptions.', 'author': 'Isaac'}
+2025-09-17 01:09:32 | INFO | Message received from author: Isaac
+2025-09-17 01:09:32 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 1, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:33 | INFO | Sent message to topic 'buzzline_json': {'message': 'Give me a hint, not the answer.', 'author': 'Julia'}
+2025-09-17 01:09:33 | INFO | Processed JSON message: {'message': 'Give me a hint, not the answer.', 'author': 'Julia'}
+2025-09-17 01:09:33 | INFO | Message received from author: Julia
+2025-09-17 01:09:33 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 1, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:34 | INFO | Sent message to topic 'buzzline_json': {'message': 'I see where I went wrong.', 'author': 'Kevin'}
+2025-09-17 01:09:34 | INFO | Processed JSON message: {'message': 'I see where I went wrong.', 'author': 'Kevin'}
+2025-09-17 01:09:34 | INFO | Message received from author: Kevin
+2025-09-17 01:09:34 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 1, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:35 | INFO | Sent message to topic 'buzzline_json': {'message': "I'll try a different strategy.", 'author': 'Leah'}
+2025-09-17 01:09:35 | INFO | Processed JSON message: {'message': "I'll try a different strategy.", 'author': 'Leah'}
+2025-09-17 01:09:35 | INFO | Message received from author: Leah
+2025-09-17 01:09:35 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 1, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:36 | INFO | Sent message to topic 'buzzline_json': {'message': 'Let me test a simpler case.', 'author': 'Maya'}
+2025-09-17 01:09:36 | INFO | Processed JSON message: {'message': 'Let me test a simpler case.', 'author': 'Maya'}
+2025-09-17 01:09:36 | INFO | Message received from author: Maya
+2025-09-17 01:09:36 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 1, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:37 | INFO | Sent message to topic 'buzzline_json': {'message': 'I can explain my reasoning.', 'author': 'Noah'}
+2025-09-17 01:09:37 | INFO | Processed JSON message: {'message': 'I can explain my reasoning.', 'author': 'Noah'}
+2025-09-17 01:09:37 | INFO | Message received from author: Noah
+2025-09-17 01:09:37 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 1, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:38 | INFO | Sent message to topic 'buzzline_json': {'message': 'I need to re-read the question.', 'author': 'Olivia'}
+2025-09-17 01:09:38 | INFO | Processed JSON message: {'message': 'I need to re-read the question.', 'author': 'Olivia'}
+2025-09-17 01:09:38 | INFO | Message received from author: Olivia
+2025-09-17 01:09:38 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 1, 'Quinn': 1}
+2025-09-17 01:09:39 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hold onâ€”units matter here.', 'author': 'Priya'}
+2025-09-17 01:09:39 | INFO | Processed JSON message: {'message': 'Hold onâ€”units matter here.', 'author': 'Priya'}
+2025-09-17 01:09:39 | INFO | Message received from author: Priya
+2025-09-17 01:09:39 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 1}
+2025-09-17 01:09:40 | INFO | Sent message to topic 'buzzline_json': {'message': 'What does the error term mean?', 'author': 'Quinn'}
+2025-09-17 01:09:40 | INFO | Processed JSON message: {'message': 'What does the error term mean?', 'author': 'Quinn'}
+2025-09-17 01:09:40 | INFO | Message received from author: Quinn
+2025-09-17 01:09:40 | INFO | Updated author counts: {'Ryan': 2, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:41 | INFO | Sent message to topic 'buzzline_json': {'message': 'I think this needs the quadratic formula.', 'author': 'Ryan'}
+2025-09-17 01:09:41 | INFO | Processed JSON message: {'message': 'I think this needs the quadratic formula.', 'author': 'Ryan'}
+2025-09-17 01:09:41 | INFO | Message received from author: Ryan
+2025-09-17 01:09:41 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 2, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:42 | INFO | Sent message to topic 'buzzline_json': {'message': 'Let me verify each step.', 'author': 'Sofia'}
+2025-09-17 01:09:42 | INFO | Processed JSON message: {'message': 'Let me verify each step.', 'author': 'Sofia'}
+2025-09-17 01:09:42 | INFO | Message received from author: Sofia
+2025-09-17 01:09:42 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 2, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:43 | INFO | Sent message to topic 'buzzline_json': {'message': "Wait, don't interruptâ€”I'm on a roll.", 'author': 'Theo'}
+2025-09-17 01:09:43 | INFO | Processed JSON message: {'message': "Wait, don't interruptâ€”I'm on a roll.", 'author': 'Theo'}
+2025-09-17 01:09:43 | INFO | Message received from author: Theo
+2025-09-17 01:09:43 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 2, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:44 | INFO | Sent message to topic 'buzzline_json': {'message': 'This method actually works!', 'author': 'Uma'}
+2025-09-17 01:09:44 | INFO | Processed JSON message: {'message': 'This method actually works!', 'author': 'Uma'}
+2025-09-17 01:09:44 | INFO | Message received from author: Uma
+2025-09-17 01:09:44 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 2, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:45 | INFO | Sent message to topic 'buzzline_json': {'message': 'Yes! The numbers line up.', 'author': 'Victor'}
+2025-09-17 01:09:45 | INFO | Processed JSON message: {'message': 'Yes! The numbers line up.', 'author': 'Victor'}
+2025-09-17 01:09:45 | INFO | Message received from author: Victor
+2025-09-17 01:09:45 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 2, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:46 | INFO | Sent message to topic 'buzzline_json': {'message': 'I can feel the pattern unfolding.', 'author': 'Wendy'}
+2025-09-17 01:09:46 | INFO | Processed JSON message: {'message': 'I can feel the pattern unfolding.', 'author': 'Wendy'}
+2025-09-17 01:09:46 | INFO | Message received from author: Wendy
+2025-09-17 01:09:46 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 2, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:47 | INFO | Sent message to topic 'buzzline_json': {'message': 'Time flew by.', 'author': 'Xavier'}
+2025-09-17 01:09:47 | INFO | Processed JSON message: {'message': 'Time flew by.', 'author': 'Xavier'}
+2025-09-17 01:09:47 | INFO | Message received from author: Xavier
+2025-09-17 01:09:47 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 2, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:48 | INFO | Sent message to topic 'buzzline_json': {'message': 'I just derived that from scratch.', 'author': 'Yara'}
+2025-09-17 01:09:48 | INFO | Processed JSON message: {'message': 'I just derived that from scratch.', 'author': 'Yara'}
+2025-09-17 01:09:48 | INFO | Message received from author: Yara
+2025-09-17 01:09:48 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 2, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:49 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love this problem set.', 'author': 'Zoe'}
+2025-09-17 01:09:49 | INFO | Processed JSON message: {'message': 'I love this problem set.', 'author': 'Zoe'}
+2025-09-17 01:09:49 | INFO | Message received from author: Zoe
+2025-09-17 01:09:49 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 3, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:50 | INFO | Sent message to topic 'buzzline_json': {'message': 'Everything connects now.', 'author': 'Alice'}
+2025-09-17 01:09:50 | INFO | Processed JSON message: {'message': 'Everything connects now.', 'author': 'Alice'}
+2025-09-17 01:09:50 | INFO | Message received from author: Alice
+2025-09-17 01:09:50 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 4, 'Bob': 3, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:51 | INFO | Sent message to topic 'buzzline_json': {'message': 'I can teach this to someone else.', 'author': 'Bob'}
+2025-09-17 01:09:51 | INFO | Processed JSON message: {'message': 'I can teach this to someone else.', 'author': 'Bob'}
+2025-09-17 01:09:51 | INFO | Message received from author: Bob
+2025-09-17 01:09:51 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 4, 'Bob': 4, 'Charlie': 3, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:52 | INFO | Sent message to topic 'buzzline_json': {'message': 'My code runs perfectly.', 'author': 'Charlie'}
+2025-09-17 01:09:52 | INFO | Processed JSON message: {'message': 'My code runs perfectly.', 'author': 'Charlie'}
+2025-09-17 01:09:52 | INFO | Message received from author: Charlie
+2025-09-17 01:09:52 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 4, 'Bob': 4, 'Charlie': 4, 'Diana': 3, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:53 | INFO | Sent message to topic 'buzzline_json': {'message': 'The graph matches my prediction.', 'author': 'Diana'}
+2025-09-17 01:09:53 | INFO | Processed JSON message: {'message': 'The graph matches my prediction.', 'author': 'Diana'}
+2025-09-17 01:09:53 | INFO | Message received from author: Diana
+2025-09-17 01:09:53 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 4, 'Bob': 4, 'Charlie': 4, 'Diana': 4, 'Eve': 3, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:54 | INFO | Sent message to topic 'buzzline_json': {'message': 'Let me try an extension idea.', 'author': 'Eve'}
+2025-09-17 01:09:54 | INFO | Processed JSON message: {'message': 'Let me try an extension idea.', 'author': 'Eve'}
+2025-09-17 01:09:54 | INFO | Message received from author: Eve
+2025-09-17 01:09:54 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 4, 'Bob': 4, 'Charlie': 4, 'Diana': 4, 'Eve': 4, 'Frank': 3, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:55 | INFO | Sent message to topic 'buzzline_json': {'message': "I optimized it and it's cleaner.", 'author': 'Frank'}
+2025-09-17 01:09:55 | INFO | Processed JSON message: {'message': "I optimized it and it's cleaner.", 'author': 'Frank'}
+2025-09-17 01:09:55 | INFO | Message received from author: Frank
+2025-09-17 01:09:55 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 4, 'Bob': 4, 'Charlie': 4, 'Diana': 4, 'Eve': 4, 'Frank': 4, 'Grace': 3, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:56 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is fun.', 'author': 'Grace'}
+2025-09-17 01:09:56 | INFO | Processed JSON message: {'message': 'This is fun.', 'author': 'Grace'}
+2025-09-17 01:09:56 | INFO | Message received from author: Grace
+2025-09-17 01:09:56 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 4, 'Bob': 4, 'Charlie': 4, 'Diana': 4, 'Eve': 4, 'Frank': 4, 'Grace': 4, 'Hannah': 3, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:57 | INFO | Sent message to topic 'buzzline_json': {'message': 'I want to do one more.', 'author': 'Hannah'}
+2025-09-17 01:09:57 | INFO | Processed JSON message: {'message': 'I want to do one more.', 'author': 'Hannah'}
+2025-09-17 01:09:57 | INFO | Message received from author: Hannah
+2025-09-17 01:09:57 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 4, 'Bob': 4, 'Charlie': 4, 'Diana': 4, 'Eve': 4, 'Frank': 4, 'Grace': 4, 'Hannah': 4, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:58 | INFO | Opening data file in read mode: PROJECT_ROOT/data/buzz2.json
+2025-09-17 01:09:58 | INFO | Reading data from file: PROJECT_ROOT/data/buzz2.json
+2025-09-17 01:09:58 | INFO | Sent message to topic 'buzzline_json': {'message': "This doesn't make any sense.", 'author': 'Alice'}
+2025-09-17 01:09:58 | INFO | Processed JSON message: {'message': "This doesn't make any sense.", 'author': 'Alice'}
+2025-09-17 01:09:58 | INFO | Message received from author: Alice
+2025-09-17 01:09:58 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 4, 'Charlie': 4, 'Diana': 4, 'Eve': 4, 'Frank': 4, 'Grace': 4, 'Hannah': 4, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:09:59 | INFO | Sent message to topic 'buzzline_json': {'message': "I'm stuck on step two.", 'author': 'Bob'}
+2025-09-17 01:09:59 | INFO | Processed JSON message: {'message': "I'm stuck on step two.", 'author': 'Bob'}
+2025-09-17 01:09:59 | INFO | Message received from author: Bob
+2025-09-17 01:09:59 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 4, 'Diana': 4, 'Eve': 4, 'Frank': 4, 'Grace': 4, 'Hannah': 4, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:10:00 | INFO | Sent message to topic 'buzzline_json': {'message': 'I keep getting the same wrong answer.', 'author': 'Charlie'}
+2025-09-17 01:10:00 | INFO | Processed JSON message: {'message': 'I keep getting the same wrong answer.', 'author': 'Charlie'}
+2025-09-17 01:10:00 | INFO | Message received from author: Charlie
+2025-09-17 01:10:00 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 4, 'Eve': 4, 'Frank': 4, 'Grace': 4, 'Hannah': 4, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:10:01 | INFO | Sent message to topic 'buzzline_json': {'message': 'Why is this so confusing?', 'author': 'Diana'}
+2025-09-17 01:10:01 | INFO | Processed JSON message: {'message': 'Why is this so confusing?', 'author': 'Diana'}
+2025-09-17 01:10:01 | INFO | Message received from author: Diana
+2025-09-17 01:10:01 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 4, 'Frank': 4, 'Grace': 4, 'Hannah': 4, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:10:02 | INFO | Sent message to topic 'buzzline_json': {'message': "I thought I understood, but I don't.", 'author': 'Eve'}
+2025-09-17 01:10:02 | INFO | Processed JSON message: {'message': "I thought I understood, but I don't.", 'author': 'Eve'}
+2025-09-17 01:10:02 | INFO | Message received from author: Eve
+2025-09-17 01:10:02 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 4, 'Grace': 4, 'Hannah': 4, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:10:03 | INFO | Sent message to topic 'buzzline_json': {'message': 'Every time I fix one thing, something else breaks.', 'author': 'Frank'}
+2025-09-17 01:10:03 | INFO | Processed JSON message: {'message': 'Every time I fix one thing, something else breaks.', 'author': 'Frank'}
+2025-09-17 01:10:03 | INFO | Message received from author: Frank
+2025-09-17 01:10:03 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 4, 'Hannah': 4, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:10:04 | INFO | Sent message to topic 'buzzline_json': {'message': 'Can you show me another example?', 'author': 'Grace'}
+2025-09-17 01:10:04 | INFO | Processed JSON message: {'message': 'Can you show me another example?', 'author': 'Grace'}
+2025-09-17 01:10:04 | INFO | Message received from author: Grace
+2025-09-17 01:10:04 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 4, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:10:05 | INFO | Sent message to topic 'buzzline_json': {'message': "I'm missing something obvious.", 'author': 'Hannah'}
+2025-09-17 01:10:05 | INFO | Processed JSON message: {'message': "I'm missing something obvious.", 'author': 'Hannah'}
+2025-09-17 01:10:05 | INFO | Message received from author: Hannah
+2025-09-17 01:10:05 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 2, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:10:06 | INFO | Sent message to topic 'buzzline_json': {'message': 'I tried three times and it still fails.', 'author': 'Isaac'}
+2025-09-17 01:10:06 | INFO | Processed JSON message: {'message': 'I tried three times and it still fails.', 'author': 'Isaac'}
+2025-09-17 01:10:06 | INFO | Message received from author: Isaac
+2025-09-17 01:10:06 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 2, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:10:07 | INFO | Sent message to topic 'buzzline_json': {'message': "I don't know where to start.", 'author': 'Julia'}
+2025-09-17 01:10:07 | INFO | Processed JSON message: {'message': "I don't know where to start.", 'author': 'Julia'}
+2025-09-17 01:10:07 | INFO | Message received from author: Julia
+2025-09-17 01:10:07 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 2, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:10:08 | INFO | Sent message to topic 'buzzline_json': {'message': 'My graph looks nothing like the key.', 'author': 'Kevin'}
+2025-09-17 01:10:08 | INFO | Processed JSON message: {'message': 'My graph looks nothing like the key.', 'author': 'Kevin'}
+2025-09-17 01:10:08 | INFO | Message received from author: Kevin
+2025-09-17 01:10:08 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 2, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:10:09 | INFO | Sent message to topic 'buzzline_json': {'message': 'What am I supposed to do with this formula?', 'author': 'Leah'}
+2025-09-17 01:10:09 | INFO | Processed JSON message: {'message': 'What am I supposed to do with this formula?', 'author': 'Leah'}
+2025-09-17 01:10:09 | INFO | Message received from author: Leah
+2025-09-17 01:10:09 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 2, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:10:10 | INFO | Sent message to topic 'buzzline_json': {'message': 'I must be mixing up the rules.', 'author': 'Maya'}
+2025-09-17 01:10:10 | INFO | Processed JSON message: {'message': 'I must be mixing up the rules.', 'author': 'Maya'}
+2025-09-17 01:10:10 | INFO | Message received from author: Maya
+2025-09-17 01:10:10 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 3, 'Noah': 2, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:10:11 | INFO | Sent message to topic 'buzzline_json': {'message': 'Ugh, my brain is fried.', 'author': 'Noah'}
+2025-09-17 01:10:11 | INFO | Processed JSON message: {'message': 'Ugh, my brain is fried.', 'author': 'Noah'}
+2025-09-17 01:10:11 | INFO | Message received from author: Noah
+2025-09-17 01:10:11 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 3, 'Noah': 3, 'Olivia': 2, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:10:12 | INFO | Sent message to topic 'buzzline_json': {'message': 'This problem feels impossible.', 'author': 'Olivia'}
+2025-09-17 01:10:12 | INFO | Processed JSON message: {'message': 'This problem feels impossible.', 'author': 'Olivia'}
+2025-09-17 01:10:12 | INFO | Message received from author: Olivia
+2025-09-17 01:10:12 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 3, 'Noah': 3, 'Olivia': 3, 'Priya': 2, 'Quinn': 2}
+2025-09-17 01:10:13 | INFO | Sent message to topic 'buzzline_json': {'message': 'I finished early; now what?', 'author': 'Priya'}
+2025-09-17 01:10:13 | INFO | Processed JSON message: {'message': 'I finished early; now what?', 'author': 'Priya'}
+2025-09-17 01:10:13 | INFO | Message received from author: Priya
+2025-09-17 01:10:13 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 3, 'Noah': 3, 'Olivia': 3, 'Priya': 3, 'Quinn': 2}
+2025-09-17 01:10:14 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is too easy.', 'author': 'Quinn'}
+2025-09-17 01:10:14 | INFO | Processed JSON message: {'message': 'This is too easy.', 'author': 'Quinn'}
+2025-09-17 01:10:14 | INFO | Message received from author: Quinn
+2025-09-17 01:10:14 | INFO | Updated author counts: {'Ryan': 3, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 3, 'Noah': 3, 'Olivia': 3, 'Priya': 3, 'Quinn': 3}
+2025-09-17 01:10:15 | INFO | Sent message to topic 'buzzline_json': {'message': 'We already did this.', 'author': 'Ryan'}
+2025-09-17 01:10:15 | INFO | Processed JSON message: {'message': 'We already did this.', 'author': 'Ryan'}
+2025-09-17 01:10:15 | INFO | Message received from author: Ryan
+2025-09-17 01:10:15 | INFO | Updated author counts: {'Ryan': 4, 'Sofia': 3, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 3, 'Noah': 3, 'Olivia': 3, 'Priya': 3, 'Quinn': 3}
+2025-09-17 01:10:16 | INFO | Sent message to topic 'buzzline_json': {'message': 'Can we do a harder one?', 'author': 'Sofia'}
+2025-09-17 01:10:16 | INFO | Processed JSON message: {'message': 'Can we do a harder one?', 'author': 'Sofia'}
+2025-09-17 01:10:16 | INFO | Message received from author: Sofia
+2025-09-17 01:10:16 | INFO | Updated author counts: {'Ryan': 4, 'Sofia': 4, 'Theo': 3, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 3, 'Noah': 3, 'Olivia': 3, 'Priya': 3, 'Quinn': 3}
+2025-09-17 01:10:17 | INFO | Sent message to topic 'buzzline_json': {'message': "I'm waiting for the next challenge.", 'author': 'Theo'}
+2025-09-17 01:10:17 | INFO | Processed JSON message: {'message': "I'm waiting for the next challenge.", 'author': 'Theo'}
+2025-09-17 01:10:17 | INFO | Message received from author: Theo
+2025-09-17 01:10:17 | INFO | Updated author counts: {'Ryan': 4, 'Sofia': 4, 'Theo': 4, 'Uma': 3, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 3, 'Noah': 3, 'Olivia': 3, 'Priya': 3, 'Quinn': 3}
+2025-09-17 01:10:18 | INFO | Sent message to topic 'buzzline_json': {'message': 'This feels repetitive.', 'author': 'Uma'}
+2025-09-17 01:10:18 | INFO | Processed JSON message: {'message': 'This feels repetitive.', 'author': 'Uma'}
+2025-09-17 01:10:18 | INFO | Message received from author: Uma
+2025-09-17 01:10:18 | INFO | Updated author counts: {'Ryan': 4, 'Sofia': 4, 'Theo': 4, 'Uma': 4, 'Victor': 3, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 3, 'Noah': 3, 'Olivia': 3, 'Priya': 3, 'Quinn': 3}
+2025-09-17 01:10:19 | INFO | Sent message to topic 'buzzline_json': {'message': 'I get itâ€”can we move on?', 'author': 'Victor'}
+2025-09-17 01:10:19 | INFO | Processed JSON message: {'message': 'I get itâ€”can we move on?', 'author': 'Victor'}
+2025-09-17 01:10:19 | INFO | Message received from author: Victor
+2025-09-17 01:10:19 | INFO | Updated author counts: {'Ryan': 4, 'Sofia': 4, 'Theo': 4, 'Uma': 4, 'Victor': 4, 'Wendy': 3, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 3, 'Noah': 3, 'Olivia': 3, 'Priya': 3, 'Quinn': 3}
+2025-09-17 01:10:20 | INFO | Sent message to topic 'buzzline_json': {'message': 'Can I try the extension problems?', 'author': 'Wendy'}
+2025-09-17 01:10:20 | INFO | Processed JSON message: {'message': 'Can I try the extension problems?', 'author': 'Wendy'}
+2025-09-17 01:10:20 | INFO | Message received from author: Wendy
+2025-09-17 01:10:20 | INFO | Updated author counts: {'Ryan': 4, 'Sofia': 4, 'Theo': 4, 'Uma': 4, 'Victor': 4, 'Wendy': 4, 'Xavier': 3, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 3, 'Noah': 3, 'Olivia': 3, 'Priya': 3, 'Quinn': 3}
+2025-09-17 01:10:21 | INFO | Sent message to topic 'buzzline_json': {'message': 'Can we use a real-world example?', 'author': 'Xavier'}
+2025-09-17 01:10:21 | INFO | Processed JSON message: {'message': 'Can we use a real-world example?', 'author': 'Xavier'}
+2025-09-17 01:10:21 | INFO | Message received from author: Xavier
+2025-09-17 01:10:21 | INFO | Updated author counts: {'Ryan': 4, 'Sofia': 4, 'Theo': 4, 'Uma': 4, 'Victor': 4, 'Wendy': 4, 'Xavier': 4, 'Yara': 3, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 3, 'Noah': 3, 'Olivia': 3, 'Priya': 3, 'Quinn': 3}
+2025-09-17 01:10:22 | INFO | Sent message to topic 'buzzline_json': {'message': 'Is there a puzzle version of this?', 'author': 'Yara'}
+2025-09-17 01:10:22 | INFO | Processed JSON message: {'message': 'Is there a puzzle version of this?', 'author': 'Yara'}
+2025-09-17 01:10:22 | INFO | Message received from author: Yara
+2025-09-17 01:10:22 | INFO | Updated author counts: {'Ryan': 4, 'Sofia': 4, 'Theo': 4, 'Uma': 4, 'Victor': 4, 'Wendy': 4, 'Xavier': 4, 'Yara': 4, 'Zoe': 3, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 3, 'Noah': 3, 'Olivia': 3, 'Priya': 3, 'Quinn': 3}
+2025-09-17 01:10:23 | INFO | Sent message to topic 'buzzline_json': {'message': 'Can I help someone else?', 'author': 'Zoe'}
+2025-09-17 01:10:23 | INFO | Processed JSON message: {'message': 'Can I help someone else?', 'author': 'Zoe'}
+2025-09-17 01:10:23 | INFO | Message received from author: Zoe
+2025-09-17 01:10:23 | INFO | Updated author counts: {'Ryan': 4, 'Sofia': 4, 'Theo': 4, 'Uma': 4, 'Victor': 4, 'Wendy': 4, 'Xavier': 4, 'Yara': 4, 'Zoe': 4, 'Alice': 5, 'Bob': 5, 'Charlie': 5, 'Diana': 5, 'Eve': 5, 'Frank': 5, 'Grace': 5, 'Hannah': 5, 'Isaac': 3, 'Julia': 3, 'Kevin': 3, 'Leah': 3, 'Maya': 3, 'Noah': 3, 'Olivia': 3, 'Priya': 3, 'Quinn': 3}
